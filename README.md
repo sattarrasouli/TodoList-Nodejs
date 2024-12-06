@@ -25,7 +25,7 @@ https://roadmap.sh/projects/todo-list-api
 1. Clone the repository:
 ```bash
 git clone https://github.com/sattarrasouli/TodoList-Nodejs.git
-cd crud-todolist
+cd TodoList-Nodejs
 ```
 
 2. Install dependencies:
